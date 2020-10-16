@@ -1,0 +1,7 @@
+node_modules/
+.codeclimate.yml
+.eslintrc
+.stylelintrc.json
+.github
+package.json
+package-lock.json
