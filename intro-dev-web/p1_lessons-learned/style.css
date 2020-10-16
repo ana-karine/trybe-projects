@@ -1,0 +1,124 @@
+#menu ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.icones li {
+  display: inline;
+}
+
+#menu ul li {
+  display: inline;
+}
+
+a {
+  margin-left: 20px;
+}
+
+#menu ul li a {
+  text-decoration: none;
+  color: white;
+}
+
+#menu ul li a:hover {
+  text-decoration: none;
+  list-style: none;
+  color: white;
+  border-bottom: 2px solid red;
+}
+
+body {
+  background-color: rgb(253 , 251 , 251);
+  margin: 0;
+  padding: 0;
+  font-family: 'Baloo Tamma 2', cursive;
+  border: 0;
+}
+
+#cabecalho {
+  background-color: green;
+  margin: auto;
+  padding-bottom: 15px;
+  position: fixed;
+  width: 100%;
+}
+
+#titulo {
+  color: white;
+  text-align: center;
+}
+
+#minha_foto {
+  margin-top: 200px;
+  margin-left: 20px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  margin-top: 50px;
+  margin-bottom: 0;
+  margin-left: 20px;
+}
+
+.container {
+  margin-top: 30px;
+  margin-left: 20px;
+  height: auto;
+}
+
+#licoes_aprendidas {
+  margin-top: 15px;
+  margin-left: 20px;
+  float: left;
+  line-height: 1.5em;
+  font-size: 15px;
+}
+
+#licoes_a_aprender {
+  margin-top: 15px;
+  margin-left: 20px;
+  float: right;
+  width: 80%;
+  line-height: 1.5em;
+  font-size: 15px;
+}
+
+.container-dois {
+  margin-top: 30px;
+  margin-left: 20px;
+  height: auto;
+}
+
+.lado-esquerdo {
+  line-height: 1.5em;
+  margin-top: 15px;
+  margin-left: 20px;
+  margin-bottom: 100px;
+  float: left;
+}
+
+.lado-direito {
+  line-height: 1.3em;
+  color: darkblue;
+  margin-top: 15px;
+  margin-left: 20px;
+  margin-bottom: 100px;
+  float: right;
+  width: 55%;
+}
+
+#rodape {
+  padding: 0;
+  margin: 0;
+  display: inline;
+  font-size: 5px;
+}
+
+.final {
+  margin-left: 635px;
+  color: gray;
+}
