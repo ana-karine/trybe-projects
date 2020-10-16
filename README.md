@@ -8,19 +8,19 @@ O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desen
 
 ## Introdução ao Desenvolvimento Web :white_check_mark:
 
-- [x] _[Projeto - HTML & CSS]()_
+- [x] _[Projeto 01 - Lições Aprendidas](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p1_lessons-learned)_
 - [ ] _[Projeto - Playground Functions]()_
 - [ ] _[Projeto - Meme Generator]()_
 - [ ] _[Projeto - Arte com Pixels]()_
 - [ ] _[Projeto - Lista de tarefas]()_
 - [ ] _[Projeto - Adivinhe a Cor]()_
 - [ ] _[Projeto - Carta Misteriosa]()_
+- [ ] _[Projeto - Página inicial do Facebook]()_
+- [x] _[Projeto 09 - ES6 e Testes Unitários](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p9_unit-tests)_
+- [x] _[Projeto 10 - ES6 e Higher Order Functions](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p10_zoo)_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
-- [ ] _[Projeto - Página inicial do Facebook]()_
-- [ ] _[Projeto - JavaScript Testes Unitários]()_
-- [ ] _[Projeto - Zoo functions]()_
 - [ ] _[Projeto - Carrinho de Compras]()_
 - [ ] _[Projeto - Jest Assíncrono e Mocking]()_
 - [ ] _[Projeto - Movie Cards Library]()_
