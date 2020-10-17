@@ -1,9 +1,9 @@
 <h2 align="center">Projeto - Página inicial do Facebook</h2>
    
    
-      <p>Objetivo: recriar a tela de cadastro de uma grande empresa, como o Facebook (https://www.facebook.com/).</p>
+      Objetivo: recriar a tela de cadastro de uma grande empresa, como o [Facebook](https://www.facebook.com/).
 
-      <p>Projeto desenvolvido em parceria com Arnaelcio Gomes (https://github.com/Arnaelcio).</p>
+      Projeto desenvolvido em parceria com [Arnaelcio Gomes](https://github.com/Arnaelcio).
    
 
 ---
@@ -14,11 +14,13 @@
  - CSS3
  - JavaScript (ES6)
 
+
 ---
 
 <h2 align="center">Versão desktop</h2>
 
 ![Página Facebook](./versao_desktop.png)
+
 
 ---
 
