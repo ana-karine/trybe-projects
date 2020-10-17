@@ -80,7 +80,7 @@ Lembre-se que você pode consultar nosso conteúdo sobre [Git & GitHub](https://
 <p align="center">
   <img
     class="rounded mx-auto d-block"
-    src="/exemplo.gif"
+    src="./exemplo.gif"
     alt="Gif exibindo um jogo de adivinhar a cor"
   >
 </p>
