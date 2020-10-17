@@ -16,7 +16,7 @@
 
 <h2 align="center">Resultado</h2>
 
-![Meme Generator](./meme-generator.png)
+![Meme Generator](./meme-generator.gif)
 
 ---
 
