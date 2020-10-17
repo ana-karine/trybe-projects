@@ -2,7 +2,7 @@
    
    
       <p>Objetivo: recriar a tela de cadastro de uma grande empresa, como o Facebook (https://www.facebook.com/).</p>
-<br>
+
       <p>Projeto desenvolvido em parceria com Arnaelcio Gomes (https://github.com/Arnaelcio).</p>
    
 
@@ -25,8 +25,6 @@
 <h2 align="center">Versão mobile</h2>
 
 ![Página Facebook](./versao_mobile.png)
-
-
 
 ---
 
