@@ -1,7 +1,7 @@
 <h2 align="center">Projeto - Página inicial do Facebook</h2>
    
    
-      <p>Objetivo: recriar a tela de cadastro de uma grande empresa, como o <h4>Facebook</h4> (https://www.facebook.com/).</p>
+      <p>Objetivo: recriar a tela de cadastro de uma grande empresa, como o Facebook (https://www.facebook.com/).</p>
 <br>
       <p>Projeto desenvolvido em parceria com Arnaelcio Gomes (https://github.com/Arnaelcio).</p>
    
@@ -26,7 +26,7 @@
 
 ![Página Facebook](./versao_mobile.png)
 
-   <br>
+
 
 ---
 
