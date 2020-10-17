@@ -4,9 +4,10 @@
        Objetivo: desenvolver um site que permita a quem o utiliza criar uma lista de tarefas.<br> 
    </p>
    <p>
-       A pessoa deve ser capaz de adicionar/remover uma quantidade arbitrária de itens,<br> 
-       podendo clicar uma vez para selecionar um item, ou clicar duas vezes para marcá-lo/desmarcá-lo.<br> 
-       A lista deve ser ordenada por ordem de criação, ou seja, um novo item deve ser inserido ao final da lista.
+       A pessoa deve ser capaz de adicionar/remover uma quantidade arbitrária de itens:<br>
+       podendo clicar uma vez para selecionar um item; clicar duas vezes para marcá-lo como completo; ou<br>
+       clicar novamente duas vezes para desmarcá-lo. A lista deve ser ordenada por ordem de criação, ou seja,<br>
+       um novo item deve ser inserido ao final da lista.
    </p>
 
 ---
