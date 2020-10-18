@@ -16,13 +16,13 @@
 
 <h2 align="center">Versão desktop</h2>
 
-![Lessons Learned](./desktop.png)
+![Lessons Learned](./desktop.gif)
 
 ---
 
 <h2 align="center">Versão mobile</h2>
 
-![Lessons Learned](./mobile.png)
+![Lessons Learned](./mobile.gif)
 
 ---
 
