@@ -17,13 +17,13 @@
 
 <h2 align="center">Versão desktop</h2>
 
-![Página Facebook](./versao_desktop.png)
+![Página Facebook](./desktop.gif)
 
 ---
 
 <h2 align="center">Versão mobile</h2>
 
-![Página Facebook](./versao_mobile.png)
+![Página Facebook](./mobile.gif)
 
 ---
 
