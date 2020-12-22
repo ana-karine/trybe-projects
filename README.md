@@ -6,7 +6,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, soft skills, carreira, agile e software engineering - the real life.
 
-## Introdução ao Desenvolvimento Web :white_check_mark:
+## Fundamentos do Desenvolvimento Web :white_check_mark:
 
 - [x] _[Projeto 01 - Lições Aprendidas](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p1_lessons-learned)_
 - [x] _[Projeto 02 - Playground Functions](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p2_playground-functions)_
