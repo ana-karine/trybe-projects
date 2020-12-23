@@ -8,7 +8,7 @@ O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desen
 
 ## Fundamentos do Desenvolvimento Web :white_check_mark:
 
-- [x] _[Projeto 01 - Lições Aprendidas](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p1_lessons-learned)_
+- [x] _[Projeto 01 - Lessons Learned](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p1_lessons-learned)_
 - [x] _[Projeto 02 - Playground Functions](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p2_playground-functions)_
 - [x] _[Projeto 03 - Meme Generator](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p3_meme-generator)_
 - [x] _[Projeto 04 - Arte com Pixels](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p4_pixels-art)_
