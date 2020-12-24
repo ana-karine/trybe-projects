@@ -11,10 +11,10 @@ O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desen
 - [x] _[Projeto 01 - Lessons Learned](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p1_lessons-learned)_
 - [x] _[Projeto 02 - Playground Functions](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p2_playground-functions)_
 - [x] _[Projeto 03 - Meme Generator](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p3_meme-generator)_
-- [x] _[Projeto 04 - Arte com Pixels](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p4_pixels-art)_
-- [x] _[Projeto 05 - Lista de tarefas](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p5_todo-list)_
-- [x]  (Bônus): _[Projeto 06 - Adivinhe a Cor](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p6_color-guess)_
-- [x]  (Bônus): _[Projeto 07 - Carta Misteriosa](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p7_mistery-letter)_
+- [x] _[Projeto 04 - Pixels Art](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p4_pixels-art)_
+- [x] _[Projeto 05 - To Do List](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p5_todo-list)_
+- [x]  (Bônus): _[Projeto 06 - Color Guess](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p6_color-guess)_
+- [x]  (Bônus): _[Projeto 07 - Mistery Letter](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p7_mistery-letter)_
 - [x] _[Projeto 08 - Página inicial do Facebook](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p8_facebook)_
 - [x] _[Projeto 09 - ES6 e Testes Unitários](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p9_unit-tests)_
 - [x] _[Projeto 10 - ES6 e Higher Order Functions](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p10_zoo)_
