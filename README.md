@@ -16,8 +16,8 @@ O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desen
 - [x]  (Bônus): _[Projeto 06 - Color Guess](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p6_color-guess)_
 - [x]  (Bônus): _[Projeto 07 - Mistery Letter](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p7_mistery-letter)_
 - [x] _[Projeto 08 - Facebook Signup](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p8_facebook)_
-- [x] _[Projeto 09 - ES6 e Testes Unitários](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p9_unit-tests)_
-- [x] _[Projeto 10 - ES6 e Higher Order Functions](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p10_zoo)_
+- [x] _[Projeto 09 - JS ES6 & Unit Tests](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p9_unit-tests)_
+- [x] _[Projeto 10 - JS ES6 & Higher Order Functions (Zoo Functions)](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p10_zoo)_
 - [ ] _[Projeto 11 - Carrinho de Compras]()_
 - [ ] _[Projeto 12 - Jest Assíncrono e Mocking]()_
 
