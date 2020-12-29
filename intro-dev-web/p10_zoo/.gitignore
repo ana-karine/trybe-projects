@@ -3,11 +3,5 @@
 # VSCode repo settings
 .vscode
 node_modules/
-.codeclimate.yml
-.editorconfig
-.eslintrc
-.stylelintrc.json
-.github
-.trybe
-package.json
-package-lock.json
+
+
