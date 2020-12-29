@@ -18,8 +18,8 @@ O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desen
 - [x] _[Projeto 08 - Facebook Signup](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p8_facebook)_
 - [x] _[Projeto 09 - JS ES6 & Unit Tests](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p9_unit-tests)_
 - [x] _[Projeto 10 - JS ES6 & Higher Order Functions (Zoo Functions)](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p10_zoo)_
-- [ ] _[Projeto 11 - Carrinho de Compras]()_
-- [ ] _[Projeto 12 - Jest Assíncrono e Mocking]()_
+- [x] _[Projeto 11 - Shopping Cart](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p11_shopping-cart)_
+- [x] _[Projeto 12 - Jest & Mocking](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p12_jest_mocking)_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
