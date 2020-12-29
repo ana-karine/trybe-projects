@@ -1,14 +1,15 @@
 .vscode
+.github
+.trybe
 node_modules/
 cypress
 cypress.json
-package.json
-package-lock.json
 reporter.json
-.editorconfig
-.trybe
-.eslintrc
-.codeclimate.yml
-.stylelintrc.json
-.github
+
+
+
+
+
+
+
 
