@@ -1,0 +1,8 @@
+.vscode
+.github
+.trybe
+.codeclimate.yml
+.editorconfig
+.eslintrc
+.stylelintrc.json
+

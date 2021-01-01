@@ -1,0 +1,134 @@
+body {
+  background-color: greenyellow;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+.container {
+  background-color: white;
+  border-radius: 12px;
+  padding-bottom: 25px;
+  padding-left: 15px;
+  padding-top: 15px;
+}
+
+.criar-tarefa {
+  background-color: darkblue;
+  border: 1px solid lightblue;
+  border-radius: 4px;
+  color: white;
+  padding: 4px 5px;
+}
+
+.apaga-tudo {
+  background-color: darkred;
+  border: 1px solid lightcoral;
+  border-radius: 4px;
+  color: white;
+  padding: 4px 5px;
+}
+
+.remover-finalizados {
+  background-color: darkblue;
+  border: 1px solid lightblue;
+  border-radius: 4px;
+  color: white;
+  padding: 4px 5px;
+}
+
+.remover-selecionado {
+  background-color: darkred;
+  border: 1px solid lightcoral;
+  border-radius: 4px;
+  color: white;
+  padding: 4px 5px;
+}
+
+.salvar-tarefas {
+  background-color: darkgreen;
+  border: 1px solid lightgreen;
+  border-radius: 4px;
+  color: white;
+  padding: 4px 5px;
+}
+
+.mover-cima {
+  background-color: darkorange;
+  border: 1px solid lightsalmon;
+  border-radius: 4px;
+  color: white;
+  padding: 4px 5px;
+}
+
+.mover-baixo {
+  background-color: darkorange;
+  border: 1px solid lightsalmon;
+  border-radius: 4px;
+  color: white;
+  padding: 4px 5px;
+}
+
+.criar-tarefa:hover {
+  background-color: blue;
+  border: 1px solid lightblue;
+  border-radius: 4px;
+  color: white;
+  padding: 4px 5px;
+}
+
+.apaga-tudo:hover {
+  background-color: red;
+  border: 1px solid lightcoral;
+  border-radius: 4px;
+  color: white;
+  padding: 4px 5px;
+}
+
+.remover-finalizados:hover {
+  background-color: blue;
+  border: 1px solid lightblue;
+  border-radius: 4px;
+  color: white;
+  padding: 4px 5px;
+}
+
+.remover-selecionado:hover {
+  background-color: red;
+  border: 1px solid lightcoral;
+  border-radius: 4px;
+  color: white;
+  padding: 4px 5px;
+}
+
+.salvar-tarefas:hover {
+  background-color: green;
+  border: 1px solid lightgreen;
+  border-radius: 4px;
+  color: white;
+  padding: 4px 5px;
+}
+
+.mover-cima:hover {
+  background-color: orange;
+  border: 1px solid lightsalmon;
+  border-radius: 4px;
+  color: white;
+  padding: 4px 5px;
+}
+
+.mover-baixo:hover {
+  background-color: orange;
+  border: 1px solid lightsalmon;
+  border-radius: 4px;
+  color: white;
+  padding: 4px 5px;
+}
+
+.selected {
+  background-color: gray;
+}
+
+.completed {
+  text-decoration: line-through solid black;
+}
