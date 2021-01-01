@@ -8,23 +8,23 @@ O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desen
 
 ## Fundamentos do Desenvolvimento Web :white_check_mark:
 
-- [x] _[Projeto 01 - Lessons Learned](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p1_lessons-learned)_
-- [x] _[Projeto 02 - Playground Functions](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p2_playground-functions)_
-- [x] _[Projeto 03 - Meme Generator](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p3_meme-generator)_
-- [x] _[Projeto 04 - Pixels Art](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p4_pixels-art)_
-- [x] _[Projeto 05 - To Do List](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p5_todo-list)_
-- [x]  (Bônus): _[Projeto 06 - Color Guess](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p6_color-guess)_
-- [x]  (Bônus): _[Projeto 07 - Mistery Letter](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p7_mistery-letter)_
-- [x] _[Projeto 08 - Facebook Signup](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p8_facebook)_
-- [x] _[Projeto 09 - JS ES6 & Unit Tests](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p9_unit-tests)_
-- [x] _[Projeto 10 - JS ES6 & Higher Order Functions (Zoo Functions)](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p10_zoo)_
-- [x] _[Projeto 11 - Shopping Cart](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p11_shopping-cart)_
-- [x] _[Projeto 12 - Jest & Mocking](https://github.com/ana-karine/trybe-projects/tree/master/intro-dev-web/p12_jest_mocking)_
+- [x] _[Projeto 01 - Lessons Learned](https://github.com/ana-karine/trybe-projects/tree/master/fund-dev-web/p1_lessons-learned)_
+- [x] _[Projeto 02 - Playground Functions](https://github.com/ana-karine/trybe-projects/tree/master/fund-dev-web/p2_playground-functions)_
+- [x] _[Projeto 03 - Meme Generator](https://github.com/ana-karine/trybe-projects/tree/master/fund-dev-web/p3_meme-generator)_
+- [x] _[Projeto 04 - Pixels Art](https://github.com/ana-karine/trybe-projects/tree/master/fund-dev-web/p4_pixels-art)_
+- [x] _[Projeto 05 - To Do List](https://github.com/ana-karine/trybe-projects/tree/master/fund-dev-web/p5_todo-list)_
+- [x]  (Bônus): _[Projeto 06 - Color Guess](https://github.com/ana-karine/trybe-projects/tree/master/fund-dev-web/p6_color-guess)_
+- [x]  (Bônus): _[Projeto 07 - Mistery Letter](https://github.com/ana-karine/trybe-projects/tree/master/fund-dev-web/p7_mistery-letter)_
+- [x] _[Projeto 08 - Facebook Signup](https://github.com/ana-karine/trybe-projects/tree/master/fund-dev-web/p8_facebook)_
+- [x] _[Projeto 09 - JS ES6 & Unit Tests](https://github.com/ana-karine/trybe-projects/tree/master/fund-dev-web/p9_unit-tests)_
+- [x] _[Projeto 10 - JS ES6 & Higher Order Functions (Zoo Functions)](https://github.com/ana-karine/trybe-projects/tree/master/fund-dev-web/p10_zoo)_
+- [x] _[Projeto 11 - Shopping Cart](https://github.com/ana-karine/trybe-projects/tree/master/fund-dev-web/p11_shopping-cart)_
+- [x] _[Projeto 12 - Jest & Mocking](https://github.com/ana-karine/trybe-projects/tree/master/fund-dev-web/p12_jest_mocking)_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
-- [ ] _[Projeto - Movie Cards Library]()_
-- [ ] _[Projeto - Movie Cards Library Stateful]()_
+- [x] _[Projeto 13 - Movie Cards Library](https://github.com/ana-karine/trybe-projects/tree/master/desenv_front-end/p13_movie-cards-library)_
+- [x] _[Projeto 14 - Movie Cards Library Stateful](https://github.com/ana-karine/trybe-projects/tree/master/desenv_front-end/p14_movie-card-library-stateful)_
 - [ ] _[Projeto - Movie Cards Library CRUD]()_
 - [ ] _[Projeto - Frontend Online Store]()_
 - [ ] _[Projeto - Testes em React]()_
