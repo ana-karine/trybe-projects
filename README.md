@@ -25,7 +25,7 @@ O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desen
 
 - [x] _[Projeto 13 - Movie Cards Library](https://github.com/ana-karine/trybe-projects/tree/master/desenv_front-end/p13_movie-cards-library)_
 - [x] _[Projeto 14 - Movie Cards Library Stateful](https://github.com/ana-karine/trybe-projects/tree/master/desenv_front-end/p14_movie-card-library-stateful)_
-- [ ] _[Projeto - Movie Cards Library CRUD]()_
+- [x] _[Projeto 15 - Movie Cards Library CRUD](https://github.com/ana-karine/trybe-projects/tree/master/desenv_front-end/p15_movie-card-library-crud)_
 - [ ] _[Projeto - Frontend Online Store]()_
 - [ ] _[Projeto - Testes em React]()_
 - [ ] _[Projeto - Tabela com filtros de dados]()_
