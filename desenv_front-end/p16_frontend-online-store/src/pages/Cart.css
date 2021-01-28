@@ -1,0 +1,36 @@
+.container-header {
+  display: table-row;
+}
+
+.return-icon {
+  height: 30px;
+  margin-left: 5px;
+  width: 30px;
+}
+
+.cart-icon {
+  height: 25px;
+  width: auto;
+}
+
+.empty-message {
+  text-align: center;
+}
+
+.cart-icon-name {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 50px;
+  width: 17%;
+}
+
+
+
+.empty-cart {
+  text-align: center;
+}
+
+.empty-image {
+  height: 150px;
+}

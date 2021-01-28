@@ -1,0 +1,38 @@
+.container-home {
+  display: flex;
+}
+
+.category-list {
+  margin-top: 32px;
+  padding: 10px;
+  margin-right: 50px;
+}
+/*
+.sum {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-left: 60px;
+  margin-top: 15px;
+}
+
+.cartIcon {
+  height: 40px;
+  width: auto;
+}
+
+.search-control {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-left: 35px;
+  width: 1000px;
+}
+
+.category-list {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+*/
