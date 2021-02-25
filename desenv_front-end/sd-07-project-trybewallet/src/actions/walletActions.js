@@ -1,6 +1,4 @@
-import { USER_EMAIL } from './index';
-import { WALLET_CURRENCIES } from './index';
-import { WALLET_EXPENSES } from './index';
+import { USER_EMAIL, WALLET_CURRENCIES, WALLET_EXPENSES } from './index';
 
 export function actionUserEmail(email) {
   return {
@@ -9,10 +7,16 @@ export function actionUserEmail(email) {
   };
 }
 
-export function actionWalletCurrencies(currencies) {
+function arrayValues(answer) {
   return {
     type: WALLET_CURRENCIES,
-    currencies,
+    data: answer,
+  };
+}
+
+export function actionWalletCurrencies(dataAPI) {
+  return (dispatch) => {
+    dataAPI.then((answer) => dispatch(arrayValues(answer)));
   };
 }
 

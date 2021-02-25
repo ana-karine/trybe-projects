@@ -1,53 +1,29 @@
-import React from "react";
-import { Link } from "react-router-dom";
-import { connect } from "react-redux";
-import { actionUserEmail } from "../actions/walletActions";
+import React from 'react';
+import { Link } from 'react-router-dom';
+import { connect } from 'react-redux';
+import PropTypes from 'prop-types';
+import { actionUserEmail } from '../actions/walletActions';
 
-import "./Login.css";
+import './Login.css';
 
 class Login extends React.Component {
   constructor() {
     super();
 
     this.state = {
-      email: "",
-      password: "",
+      email: '',
+      password: '',
       btnDisabled: true,
     };
+
+    this.handleChangeEmail = this.handleChangeEmail.bind(this);
+    this.handleChangePassword = this.handleChangePassword.bind(this);
   }
 
-  handleChangeEmail = (event) => {
-    if (/^([\w.%+-]+)@([\w-]+\.)+([\w]{1})*/i.test(event.target.value)) {
-      this.setState({
-        [event.target.name]: event.target.value,
-      });
-      this.onButton();
-    } else {
-      this.setState({
-        [event.target.name]: "",
-      });
-    }
-  };
+  onButton() {
+    const { email, password } = this.state;
 
-  handleChangePassword = (event) => {
-    if (/\d{5,}/g.test(event.target.value)) {
-      this.setState({
-        [event.target.name]: event.target.value,
-      });
-      this.onButton();
-    } else {
-      this.setState({
-        [event.target.name]: "",
-      });
-    }
-  };
-
-  handleSubmit = (event) => {
-    event.preventDefault();
-  };
-
-  onButton = () => {
-    if (this.state.email !== "" && this.state.password !== "") {
+    if (email !== '' && password !== '') {
       this.setState({
         btnDisabled: false,
       });
@@ -56,11 +32,42 @@ class Login extends React.Component {
         btnDisabled: true,
       });
     }
-  };
+  }
+
+  handleChangeEmail(event) {
+    if (/^[A-Za-z0-9.-]+@[A-Za-z0-9]+(\.[A-Za-z]{3}|\.[A-Za-z]{3}\.[A-Za-z]{2})$/i
+      .test(event.target.value)) {
+      this.setState({
+        [event.target.name]: event.target.value,
+      });
+      this.onButton();
+    } else {
+      this.setState({
+        [event.target.name]: '',
+      });
+    }
+  }
+
+  handleChangePassword(event) {
+    if (/\d{5,}/g.test(event.target.value)) {
+      this.setState({
+        [event.target.name]: event.target.value,
+      });
+      this.onButton();
+    } else {
+      this.setState({
+        [event.target.name]: '',
+      });
+    }
+  }
+
+  handleSubmit(event) {
+    event.preventDefault();
+  }
 
   render() {
     const { writeEmail } = this.props;
-    const { email } = this.state;
+    const { email, btnDisabled } = this.state;
 
     return (
       <form className="form" onSubmit={ this.handleSubmit }>
@@ -83,7 +90,8 @@ class Login extends React.Component {
         </div>
         <Link to="/carteira">
           <button
-            disabled={ this.state.btnDisabled }
+            type="button"
+            disabled={ btnDisabled }
             onClick={ () => writeEmail(email) }
           >
             Entrar
@@ -103,3 +111,7 @@ const mapDispatchToProps = (dispatch) => ({
 });
 
 export default connect(mapStateToProps, mapDispatchToProps)(Login);
+
+Login.propTypes = {
+  writeEmail: PropTypes.func.isRequired,
+};

@@ -3,7 +3,7 @@ const INITIAL_STATE = {
   password: '',
   currencies: [],
   expenses: [],
-  exchangeField: 'BLR'
+  exchangeField: 'BLR',
 };
 
 export default INITIAL_STATE;

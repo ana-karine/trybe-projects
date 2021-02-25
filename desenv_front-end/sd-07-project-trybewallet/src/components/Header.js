@@ -1,5 +1,6 @@
 import React from 'react';
-import { connect } from "react-redux";
+import { connect } from 'react-redux';
+import PropTypes from 'prop-types';
 
 class Header extends React.Component {
   render() {
@@ -20,3 +21,7 @@ const mapStateToProps = (state) => ({
 });
 
 export default connect(mapStateToProps, null)(Header);
+
+Header.propTypes = {
+  readEmail: PropTypes.string.isRequired,
+};
