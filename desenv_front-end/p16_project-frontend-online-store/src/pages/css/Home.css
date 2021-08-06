@@ -1,0 +1,23 @@
+.searchbar {
+  align-content: center;
+  background-color: yellow;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 30px;
+  padding-top: 40px;
+  position: fixed;
+  width: 100%;
+}
+
+.home-list-category {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.home-list-search {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-left: 40px;
+  width: 950px;
+}

@@ -1,0 +1,44 @@
+.container-product-card {
+  border: 1px solid rgb(70, 46, 15);
+  border-radius: 5px;
+  justify-content: space-between;
+  margin: 5px;
+  padding: 5px;
+  text-align: center;
+  width: 200px;
+}
+
+.img-product-card {
+  height: 120px;
+  padding: 10px;
+  width: 120px;
+}
+
+.card-title {
+  font-size: 15px;
+  height: 120px;
+}
+
+.free-shipping {
+  font-size: 12px;
+  color: red;
+}
+
+.card-detail {
+  text-decoration: none;
+}
+
+/*
+https://www.w3bai.com/pt/css/css3_buttons.html
+*/
+.card-btn {
+  background-color: #008CBA;
+  border: none;
+  display: inline-block;
+  font-size: 15px;
+  color: white;
+  margin-top: 5px;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+}

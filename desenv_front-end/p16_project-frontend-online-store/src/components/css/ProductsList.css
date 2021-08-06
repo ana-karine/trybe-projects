@@ -1,0 +1,9 @@
+.home-initial-message {
+  margin-top: 50%;
+}
+
+.container-product-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 150px;
+}
